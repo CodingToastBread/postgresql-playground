@@ -18,5 +18,4 @@ Here is a list of tasks that I have done so far.
   > and there is no table available, there are cases where you<br>
   > need a temporary data set. Here's a way to create one.<br>
     - [using `values()` syntax](how_to_create_sample_dataset/using_values_syntax.sql)
-
-
+    - [generate_series practice](how_to_create_sample_dataset/generate_series.sql)
